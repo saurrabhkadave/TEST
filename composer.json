@@ -1,5 +1,5 @@
 {
-  "name": "lts/php-book-code",
+  "name": "kadave/testing",
   "description": "Code for PHP Book",
   "type": "project",
   "require": {
